@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lothaire",
+    "last_name": "Benazet",
+    "email": "lbenazet@tinyurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Shellie",
+    "last_name": "Cowser",
+    "email": "sCowser@tinyurl.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Sharl",
+    "last_name": "Hesbrook",
+    "email": "shasbrook@economist.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4, "first_name": "Merrill",
+    "last_name": "Acom",
+    "email": "macom3@goo.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Remus",
+    "last_name": "Downgate",
+    "email": "rdowngate3@shinystat.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Bemus",
+    "last_name": "Gonsalevs",
+    "email": "bgonsalevs@tinyurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Lothaire",
+    "last_name": "Benazet",
+    "email": "lbenazet@tinyurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Mark",
+    "last_name": "Liman",
+    "email": "mliman@tinyurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Daniel",
+    "last_name": "Craige",
+    "email": "dCraige@bondmovies.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Maria",
+    "last_name": "Sharapova",
+    "email": "msharapova@mspova.com",
+    "gender": "Female"
+  }
+]
